@@ -6,6 +6,10 @@
 ## Update
 -  **2024.11.28**: repository released!
 
+### Test-time optimization
+<img src='assets/test-time.png'>
+You can also use Test-time optimization to fine-tune a specific prompt.
+
 
 ## Acknowledgements
 
