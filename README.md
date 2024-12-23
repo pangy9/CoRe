@@ -14,10 +14,11 @@ You can also use Test-time optimization to fine-tune a specific prompt.
 ## Acknowledgements
 
 This project builds upon the work of several other repositories. We would like to express our gratitude to the following projects for their contributions:
-
+- [AttnDreamBooth (NeurIPS 2024)](https://github.com/lyuPang/AttnDreamBooth): Official Implementation of "AttnDreamBooth: Towards Text-Aligned Personalized Text-to-Image" by Lianyu Pang, Jian Yin, Baoquan Zhao, Qing Li and Xudong Mao.
 - [Diffusers-Textual Inversion](https://github.com/huggingface/diffusers/tree/main/examples/textual_inversion): A implementation of An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion
 - [Dreambooth-Stable-Diffusion](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion): Implementation of Dreambooth (https://arxiv.org/abs/2208.12242) with Stable Diffusion
 - [Diffusers](https://github.com/huggingface/diffusers): A library for state-of-the-art pretrained diffusion models.
+
 ---
 
 ## References
